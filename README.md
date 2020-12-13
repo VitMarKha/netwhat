@@ -16,4 +16,4 @@ netwhat - третий проект в School 21. Этот проект позв
 
 ## Оценка
 
-![alt tag](media/appraisal_ft_netwhat.png "Оценка проекта netwhat")
+![alt tag](media/appraisal_netwhat.png "Оценка проекта netwhat")
