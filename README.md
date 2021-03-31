@@ -1,19 +1,21 @@
 # netwhat
 
-## Описание
+## Description
 
-Этот проект позволит нам открыть для себя сеть и понять, как она работает. Это позволит нам понять, как работают некоторые вещи которые мы уже используем в своей повседневной жизни, даже не подозревая об этом. Для этого мы ответим на анкету на сайте [netwhat.42.fr](netwhat.42.fr). Если вы отмените регистрацию этого проекта, вам придется подождать три дня, прежде чем вы сможете повторить попытку.
+A small cheat sheet for people who are going to take netwhat.
 
-## Полезные ссылки
+This project will allow us to discover the network and understand how it works. This will allow us to understand how some of the things that we already use in our daily lives work without even knowing it. To do this, we will answer the questionnaire on the website [netwhat.42.fr](netwhat.42.fr). If you cancel the registration of this project, you will have to wait three days before you can try again.
 
-[Отличное руководство](https://github.com/markveligod/netwhat)
+## Useful links
 
-[Тестер](https://github.com/adblanc/netwhat42-train)
+[Excellent guide](https://github.com/markveligod/netwhat)
 
-[Калькулятор](http://infocisco.ru/ip_calculator.php)
+[Tester](https://github.com/adblanc/netwhat42-train)
 
-[Ну и самая важная ссылка :)](https://www.google.ru)
+[Calculator](http://infocisco.ru/ip_calculator.php)
 
-## Оценка
+[Well, the most important link :)](https://www.google.ru)
 
-![alt tag](media/appraisal_netwhat.png "Оценка проекта netwhat")
+## Evaluation
+
+![alt tag](media/appraisal_netwhat.png "Appraisal netwhat")
